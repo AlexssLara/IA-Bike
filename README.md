@@ -1,5 +1,8 @@
 # IA-Bike
 
+Aprenzado de máquina automatizado para previsão de aluguel de bicicletas.
+
+
 **Configurações básicas:**
 
 **Nome do trabalho**: mslearn-bike-automl
